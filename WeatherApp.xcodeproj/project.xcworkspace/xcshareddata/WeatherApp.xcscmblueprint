@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F5C5E7F5B72674A08C15DC545181EBEA6C9BF0B3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E955150DFE15004A50B5936479948B7E5F42199D" : 9223372036854775807,
+    "F5C5E7F5B72674A08C15DC545181EBEA6C9BF0B3" : 9223372036854775807,
+    "212821C694955AF136A26A6216F039FF0FCC4ACD" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F8A7289D-59AA-4B74-81E8-2490C43D751D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E955150DFE15004A50B5936479948B7E5F42199D" : "..\/Weather",
+    "F5C5E7F5B72674A08C15DC545181EBEA6C9BF0B3" : "WeatherApp\/",
+    "212821C694955AF136A26A6216F039FF0FCC4ACD" : "..\/iOS%20project"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WeatherApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WeatherApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/danilkl\/ios-project.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "212821C694955AF136A26A6216F039FF0FCC4ACD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/danilkl\/weatherapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E955150DFE15004A50B5936479948B7E5F42199D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/danilkl\/dao.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F5C5E7F5B72674A08C15DC545181EBEA6C9BF0B3"
+    }
+  ]
+}
